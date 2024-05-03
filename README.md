@@ -2,6 +2,9 @@
 
 Este repositório contém o projeto desenvolvido durante o curso de Node.js da Digital Innovation One.
 
+![Screenshot_34-removebg-preview](https://github.com/Nayumt99/Curso-NodeJs-DIO/assets/68863624/888f97ea-c554-494f-bf52-55a512762954)
+
+
 ## Descrição do Curso
 
 O curso de Node.js da Digital Innovation One oferece uma introdução completa ao desenvolvimento de aplicações web com Node.js, abrangendo desde os fundamentos da plataforma até tópicos avançados. Durante o curso, os participantes têm a oportunidade de aprender sobre:
